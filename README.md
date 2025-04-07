@@ -1,7 +1,17 @@
-## Hi there 👋
+## Hello there 👋
+💬 Eu sou aluno de informática do ensino medio, e gosto muito da área
+<br>
+❤️ Suporte Técnico
+<br>
+📫 juanpedroaguiar843@gmail.com
+<br>
+🏫 High School
+     
+
+
 
 <!--
-**Jpzin07/Jpzin07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jsvic/jsvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
